@@ -14,7 +14,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [frontend-mentor-qr-code-card](https://frontend-mentor-qr-code-card.netlify.app/)
+- Live Site URL: [frontend-mentor-blog-preview-card](https://frontend-mentor-blog-preview-card-0.netlify.app/)
 
 ## My process
 

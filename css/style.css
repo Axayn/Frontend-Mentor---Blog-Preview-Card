@@ -7,7 +7,7 @@
   box-shadow: 8px 8px 0 rgb(0, 0, 0);
 
   display: grid;
-  grid-gap: 24px;
+  gap: 24px;
 
   box-sizing: content-box;
 
@@ -48,6 +48,12 @@
 .blog-preview__title {
   font-size: 2.4rem;
   font-weight: 800;
+  align-self: start;
+  cursor: pointer;
+}
+
+.blog-preview__title:hover {
+  color: #f4d04e;
 }
 
 .blog-preview__text {
